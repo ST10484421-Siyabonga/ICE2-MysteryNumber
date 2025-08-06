@@ -24,7 +24,10 @@ Features Random Number Generator – Picks a number from 1 to 100 at the start o
 Screenshot
 
 image alt image alt image alt image alt image alt
+![1 1](https://github.com/user-attachments/assets/2110b56d-9221-4fab-898d-35995161f21f)
 ![2 1](https://github.com/user-attachments/assets/85f313af-24d0-4ccc-b758-c1eed6c57365)
-
+![3 1](https://github.com/user-attachments/assets/be35164f-be2c-4400-a4cd-7d9de50c2e8c)
+![4 1](https://github.com/user-attachments/assets/10b286a5-b7d7-43d7-8c9c-59baa2cca560)
+![5 1](https://github.com/user-attachments/assets/46fe7496-fa33-4d0e-9cef-945026cd771b)
 
 Link to Repository: 
